@@ -1,8 +1,5 @@
 
-## যাদের ব্লগ থেকে লেখা সংগ্রহ করা হয়েছেঃ
-
-#### ব্লগের তালিকা (লেখকের নামের ক্রমানুসারে):
-
+## Blogs
 - [How-to-code](http://www.howtocode.com.bd/)
 - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 - [অনিন্দ্য পাল](http://binaryrongo.anindyaspaul.com/)
