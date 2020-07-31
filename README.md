@@ -1,24 +1,6 @@
-# বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
-
-> বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
-
-নতুন লিংক সংযোজন বা যে কোনো পরিবর্তন, পরিবর্ধনের জন্য পুল(Pull) রিকোয়েস্ট করুন। প্রতিটি কমিটে (Commit) একটির বেশি লিংক সংযোজন না করার অনুরোধ রইলো।
-
-[যেসব ব্লগ থেকে লেখা সংগ্রহ করা হয়েছে তার তালিকা এখানে](./blog-list.md)
-
----
-
-## এলগোরিদম
-
-### ব্যাসিক
-* [বিগ "O" নোটেশন](http://www.shafaetsplanet.com/planetcoding/?p=1313)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+# Resources
 
 ### ডাটা স্ট্রাকচার
-
-* অ্যাারে (Array)
-    * [অ্যারে ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/array) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    * [অ্যারে কমপ্রেশন/ম্যাপিং](http://www.shafaetsplanet.com/planetcoding/?p=1388) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 * লিংকড লিস্ট (Linked List)
     * [লিংকড লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=2689) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
